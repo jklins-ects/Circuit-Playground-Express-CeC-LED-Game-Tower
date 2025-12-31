@@ -59,7 +59,7 @@ def df_play_track(track):
 
 
 def prime_dfplayer_once():
-    df_set_volume(20)
+    df_set_volume(80)
     time.sleep(1)
     df_play_track(1)
     time.sleep(0.2)
